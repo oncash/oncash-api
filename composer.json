@@ -1,0 +1,20 @@
+{
+  "name": "oncash/oncash-api",
+  "version": "1.0.1",
+  "description": "PHP SDK for OnCash API",
+  "license": "MIT",
+  "keywords": ["sdk", "oncash", "api"],
+  "authors": [
+    {
+      "name": "Artem Smorodin",
+      "email": "eldevel@yandex.ru"
+    }
+  ],
+  "require": {},
+  "require-dev": {},
+  "autoload": {
+    "psr-4": {
+      "OnCash\\": "src"
+    }
+  }
+}
